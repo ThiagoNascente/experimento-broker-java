@@ -1,6 +1,5 @@
 ```bash
-javac -d lab/output lab/*.java
-cd lab
+javac -d lab/output *.java
 cd output
 cd lab
 java lab.Main
